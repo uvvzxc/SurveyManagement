@@ -1,0 +1,17 @@
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\bin\Debug\net8.0\SurveyManagementProject.Application.deps.json
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\bin\Debug\net8.0\SurveyManagementProject.Application.runtimeconfig.json
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\bin\Debug\net8.0\SurveyManagementProject.Application.dll
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\bin\Debug\net8.0\SurveyManagementProject.Application.pdb
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\bin\Debug\net8.0\SurveyManagementProject.Domain.dll
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\bin\Debug\net8.0\SurveyManagementProject.Domain.pdb
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\obj\Debug\net8.0\SurveyManagementProject.Application.csproj.AssemblyReference.cache
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\obj\Debug\net8.0\SurveyManagementProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\obj\Debug\net8.0\SurveyManagementProject.Application.AssemblyInfoInputs.cache
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\obj\Debug\net8.0\SurveyManagementProject.Application.AssemblyInfo.cs
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\obj\Debug\net8.0\SurveyManagementProject.Application.csproj.CoreCompileInputs.cache
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\obj\Debug\net8.0\SurveyMa.526138E2.Up2Date
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\obj\Debug\net8.0\SurveyManagementProject.Application.dll
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\obj\Debug\net8.0\refint\SurveyManagementProject.Application.dll
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\obj\Debug\net8.0\SurveyManagementProject.Application.pdb
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\obj\Debug\net8.0\SurveyManagementProject.Application.genruntimeconfig.cache
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Application\obj\Debug\net8.0\ref\SurveyManagementProject.Application.dll

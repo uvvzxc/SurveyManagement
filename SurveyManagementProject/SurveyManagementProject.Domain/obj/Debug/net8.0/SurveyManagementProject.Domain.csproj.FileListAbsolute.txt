@@ -1,0 +1,12 @@
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Domain\bin\Debug\net8.0\SurveyManagementProject.Domain.deps.json
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Domain\bin\Debug\net8.0\SurveyManagementProject.Domain.dll
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Domain\bin\Debug\net8.0\SurveyManagementProject.Domain.pdb
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Domain\obj\Debug\net8.0\SurveyManagementProject.Domain.csproj.AssemblyReference.cache
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Domain\obj\Debug\net8.0\SurveyManagementProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Domain\obj\Debug\net8.0\SurveyManagementProject.Domain.AssemblyInfoInputs.cache
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Domain\obj\Debug\net8.0\SurveyManagementProject.Domain.AssemblyInfo.cs
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Domain\obj\Debug\net8.0\SurveyManagementProject.Domain.csproj.CoreCompileInputs.cache
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Domain\obj\Debug\net8.0\SurveyManagementProject.Domain.dll
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Domain\obj\Debug\net8.0\refint\SurveyManagementProject.Domain.dll
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Domain\obj\Debug\net8.0\SurveyManagementProject.Domain.pdb
+D:\.Net\Online Works\SurveyManagementProject\SurveyManagementProject.Domain\obj\Debug\net8.0\ref\SurveyManagementProject.Domain.dll
